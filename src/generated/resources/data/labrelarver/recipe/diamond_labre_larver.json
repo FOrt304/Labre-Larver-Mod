@@ -1,0 +1,21 @@
+{
+  "group": "diamond_labre_larver",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "121",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "labrelarver:labre_larver"
+    }
+  },
+  "result": {
+    "id": "labrelarver:diamond_labre_larver",
+    "count": 1
+  }
+}

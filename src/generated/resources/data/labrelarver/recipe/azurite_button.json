@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "azurite",
+  "ingredients": [
+    {
+      "item": "labrelarver:labre_larver"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "labrelarver:azurite_button"
+  }
+}

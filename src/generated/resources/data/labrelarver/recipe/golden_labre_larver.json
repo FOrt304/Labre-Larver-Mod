@@ -1,0 +1,24 @@
+{
+  "group": "golden_labre_larver",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "323",
+    "212",
+    "323"
+  ],
+  "key": {
+    "1": {
+      "item": "labrelarver:labre_larver"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:gold_nugget"
+    }
+  },
+  "result": {
+    "id": "labrelarver:golden_labre_larver",
+    "count": 1
+  }
+}

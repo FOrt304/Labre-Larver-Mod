@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "labrelarver:block/labre_larver_block"
+  }
+}

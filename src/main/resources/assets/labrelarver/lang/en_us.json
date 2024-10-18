@@ -1,0 +1,69 @@
+{
+  "item.labrelarver.chainsaw": "Chainsaw",
+  "item.labrelarver.onion": "Onion",
+  "item.labrelarver.raw_labre_larver": "Labre Larver Package",
+  "item.labrelarver.labre_larver": "Labre Larver",
+  "item.labrelarver.golden_labre_larver": "Golden Labre Larver",
+  "item.labrelarver.enchanted_golden_labre_larver": "Enchanted Golden Labre Larver",
+  "item.labrelarver.diamond_labre_larver": "Diamond Labre Larver",
+  "item.labrelarver.cheesy_labre_larver": "Cheesy Labre Larver",
+  "item.labrelarver.cola": "Coca Cola",
+  "item.labrelarver.cheeseitem": "Cheese",
+  "item.labrelarver.aurora_ashes": "Aurora Ashes",
+
+  "item.labrelarver.capybara_spawn_egg": "Capybara Spawn Egg",
+
+
+  "block.labrelarver.raw_labre_larver_block": "Block of Raw Labre Larver",
+  "block.labrelarver.labre_larver_block": "Block of Labre Larver",
+
+  "block.labrelarver.labre_larver_ore": "Labre Larver Ore",
+  "block.labrelarver.azurite_deepslate_ore": "Labre Larver Deepslate Ore",
+  "block.labrelarver.azurite_end_ore": "Labre Larver End Ore",
+  "block.labrelarver.azurite_nether_ore": "Labre Larver Nether Ore",
+
+  "block.labrelarver.magic_block": "Magic Block",
+
+  "block.labrelarver.azurite_stairs": "Labre Larver Stairs",
+  "block.labrelarver.azurite_slab": "Labre Larver Slab",
+
+  "block.labrelarver.azurite_button": "Labre Larver Button",
+  "block.labrelarver.azurite_pressure_plate": "Labre Larver Pressure Plate",
+
+  "block.labrelarver.azurite_fence": "Labre Larver Fence",
+  "block.labrelarver.azurite_fence_gate": "Labre Larver Fence Gate",
+  "block.labrelarver.azurite_wall": "Labre Larver Wall",
+
+  "block.labrelarver.azurite_door": "Labre Larver Door",
+  "block.labrelarver.azurite_trapdoor": "Labre Larver Trapdoor",
+
+
+  "tooltip.labrelarver.chainsaw.tooltip.shift": "§eⓘ§r Press §eShift§r for more Information!",
+  "tooltip.labrelarver.chainsaw.tooltip.1": "§6ⓘ§r This Chainsaw will cut down trees fast!",
+  "tooltip.labrelarver.chainsaw.tooltip.2": "§6ⓘ§r §oChainsaw go vrooom!§r",
+
+  "tooltip.labrelarver.magic_block.tooltip.1": "§6ⓘ§r This Block is §9MAGICAL§r",
+  "tooltip.labrelarver.onion.tooltip.1": "§6ⓘ§r Tastes Great, for an Onion!",
+  "tooltip.labrelarver.raw_labre_larver.tooltip.1": "§6ⓘ§r Cook it first, by Walter White does!",
+  "tooltip.labrelarver.labre_larver.tooltip.1": "§6ⓘ§r Danish Candy fr, by SamuSpamuPro!",
+  "tooltip.labrelarver.golden_labre_larver.tooltip.1": "§6ⓘ§r Gold from Denmark!",
+  "tooltip.labrelarver.enchanted_golden_labre_larver.tooltip.1": "§6ⓘ§r Enchanted Golden Oger from Denmark!",
+  "tooltip.labrelarver.diamond_labre_larver.tooltip.1": "§6ⓘ§r Diamonds from Germany!",
+  "tooltip.labrelarver.cheesy_labre_larver.tooltip.1": "§6ⓘ§r Cheese from Sweden, By FOrt404!",
+  "tooltip.labrelarver.cola.tooltip.1": "§6ⓘ§r Coca Cola Espuma! BOOM!!!",
+  "tooltip.labrelarver.cheeseitem.tooltip.1": "§6ⓘ§r The Cheese from §eFort Yukon§r!",
+
+  "advancements.labrelarver.root.title": "Say hello to Labre Larver Mod!",
+  "advancements.labrelarver.root.description": "The Labre Larver is actually German.",
+
+  "advancements.cheeseitem.title": "Cheese Slices?",
+  "advancements.cheeseitem.descr": "Get Milk & Craft 1-4 Cheese!",
+
+  "advancements.e.title": "THE HOLY E!",
+  "advancements.e.descr": "Obtain a mysterious E",
+
+  "advancements.labre_larver.title": "I GOT THE LABRE LARVER!",
+  "advancements.labre_larver.descr": "Obtain a Labre Larver Candy",
+
+  "creativetab.labre_larver_items": "Labre Larver"
+}

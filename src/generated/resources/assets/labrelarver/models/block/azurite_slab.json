@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "labrelarver:block/labre_larver_block",
+    "side": "labrelarver:block/labre_larver_block",
+    "top": "labrelarver:block/labre_larver_block"
+  }
+}

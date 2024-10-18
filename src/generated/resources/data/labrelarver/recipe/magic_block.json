@@ -1,0 +1,21 @@
+{
+  "group": "magic_block",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "121",
+    "111"
+  ],
+  "key": {
+    "1": {
+      "item": "labrelarver:labre_larver_block"
+    },
+    "2": {
+      "item": "labrelarver:diamond_labre_larver"
+    }
+  },
+  "result": {
+    "id": "labrelarver:magic_block",
+    "count": 1
+  }
+}

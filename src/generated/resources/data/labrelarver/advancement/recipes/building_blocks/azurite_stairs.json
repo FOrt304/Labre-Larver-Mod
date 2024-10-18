@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_labre_larver": {
+      "conditions": {
+        "items": [
+          {
+            "items": "labrelarver:labre_larver"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "labrelarver:azurite_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_labre_larver"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "labrelarver:azurite_stairs"
+    ]
+  }
+}

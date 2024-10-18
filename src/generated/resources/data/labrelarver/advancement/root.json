@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": {
+      "item": "labrelarver:labre_larver"
+    },
+    "title": {
+      "translate": "advancements.labrelarver.root.title"
+    },
+    "description": {
+      "translate": "advancements.labrelarver.root.description"
+    },
+    "background": "labrelarver:textures/block/labre_larver_block.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "labrelarver:item/cheeseitem_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "labrelarver:item/cheeseitem_2d"
+    },
+    "ground": {
+      "parent": "labrelarver:item/cheeseitem_2d"
+    },
+    "fixed": {
+      "parent": "labrelarver:item/cheeseitem_2d"
+    }
+  }
+}

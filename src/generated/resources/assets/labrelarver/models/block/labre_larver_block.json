@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "labrelarver:block/labre_larver_block"
+  }
+}

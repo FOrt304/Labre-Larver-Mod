@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "labrelarver:block/azurite_slab"
+    },
+    "type=double": {
+      "model": "labrelarver:block/labre_larver_block"
+    },
+    "type=top": {
+      "model": "labrelarver:block/azurite_slab_top"
+    }
+  }
+}
